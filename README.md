@@ -7,6 +7,7 @@ Over December 15-16 the U.S. Navy and 18F worked together on an Agile Prototypin
 ## Slides
 
 ## Open Opportunities Dashboard
+The Open Opportunities Dashboard allows government employees a way to find short-term assignments (with supervisor approval) and advertise skillsets they have.  Open source repository is [here](https://github.com/18F/openopps-platform).
 [https://openopps.digitalgov.gov/](https://openopps.digitalgov.gov/)
 
 
