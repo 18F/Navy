@@ -1,5 +1,8 @@
-# Navy
-Repository for the Navy's Agile Prototyping Workshop
+# Navy Agile Prototyping Workshop
+This is a repository for the Navy's Agile Prototyping Workshop.  This is a publicly accessible website - please refrain from publishing content not for public consumption.
+
+## Overview
+Over December 15-16 the U.S. Navy and 18F worked together on an Agile Prototyping Workshop.
 
 ## Slides
 
