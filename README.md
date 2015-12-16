@@ -39,4 +39,5 @@ As a commanding officer, I want to know ___________ about junior officers, so th
 
 #Demo
 [Screenshot 1](https://raw.githubusercontent.com/18F/Navy/master/Images/CO_screen_1.png)
-
+[Screenshot 2](https://raw.githubusercontent.com/18F/Navy/master/Images/CO_screen_2.png)
+[Screenshot 3](https://raw.githubusercontent.com/18F/Navy/master/Images/CO_screen_3.png)
