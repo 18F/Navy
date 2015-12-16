@@ -6,6 +6,10 @@ Over December 15-16 the U.S. Navy and 18F worked together on an Agile Prototypin
 
 ## Slides
 
+## Open Opportunities Dashboard
+[https://openopps.digitalgov.gov/](https://openopps.digitalgov.gov/)
+
+
 ## Some examples of tools to get you started with sketching...
 
 * Powerpoint + [Keynotopia](http://keynotopia.com/tutorials/)
