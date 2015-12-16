@@ -7,19 +7,6 @@ Over December 15-16 the U.S. Navy and 18F worked together on an Agile Prototypin
 ## The three user stories
 The three user stories selected for the workshop are best represented by *Junior Officers*, *Detailers*, and *Contracting Officers*. Previous research was used to established the leading user story for each team.
 
-## Slides
-Slides for the workshop [can be found here](https://docs.google.com/a/gsa.gov/presentation/d/1TKOt2pSmpcYFTo7Ud2Fs-eqkwFjcghz_jV1E--ENvzE/pub?start=false&loop=false&delayms=3000).
-
-## Open Opportunities Dashboard
-The Open Opportunities Dashboard allows government employees a way to find short-term assignments (with supervisor approval) and advertise skillsets they have.  Open source repository is [here](https://github.com/18F/openopps-platform).
-[https://openopps.digitalgov.gov/](https://openopps.digitalgov.gov/)
-
-## Some examples of tools to get you started with sketching...
-
-* Powerpoint + [Keynotopia](http://keynotopia.com/tutorials/)
-* [Balsamiq](https://balsamiq.com/)
-* [Invision](invisionapp.com)
-
 ## Junior Officers
 ###User story
 As a junior officer, I want to know _______ about available billets, so that I can explore opportunities that fit my career goals.
@@ -41,3 +28,16 @@ As a commanding officer, I want to know ___________ about junior officers, so th
 * [Screenshot 1](https://raw.githubusercontent.com/18F/Navy/master/Images/CO_screen_1.png)
 * [Screenshot 2](https://raw.githubusercontent.com/18F/Navy/master/Images/CO_screen_2.png)
 * [Screenshot 3](https://raw.githubusercontent.com/18F/Navy/master/Images/CO_screen_3.png)
+
+## Slides
+Slides for the workshop [can be found here](https://docs.google.com/a/gsa.gov/presentation/d/1TKOt2pSmpcYFTo7Ud2Fs-eqkwFjcghz_jV1E--ENvzE/pub?start=false&loop=false&delayms=3000).
+
+## Open Opportunities Dashboard
+The Open Opportunities Dashboard allows government employees a way to find short-term assignments (with supervisor approval) and advertise skillsets they have.  Open source repository is [here](https://github.com/18F/openopps-platform).
+[https://openopps.digitalgov.gov/](https://openopps.digitalgov.gov/)
+
+## Some examples of tools to get you started with sketching...
+
+* Powerpoint + [Keynotopia](http://keynotopia.com/tutorials/)
+* [Balsamiq](https://balsamiq.com/)
+* [Invision](invisionapp.com)
