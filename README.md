@@ -38,5 +38,5 @@ As a detailer, I want to know _____________ about available junior officers, so 
 As a commanding officer, I want to know ___________ about junior officers, so that I can understand whether a junior officer is a good fit for my command.
 
 #Demo
-(Screenshot 1)[https://raw.githubusercontent.com/18F/Navy/edit/master/Images/CO_screen_1.png]
+(Screenshot 1)[https://raw.githubusercontent.com/18F/Navy/master/Images/CO_screen_1.png]
 
