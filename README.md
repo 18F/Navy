@@ -8,6 +8,7 @@ Over December 15-16 the U.S. Navy and 18F worked together on an Agile Prototypin
 The three user stories selected for the workshop are best represented by *Junior Officers*, *Detailers*, and *Contracting Officers*. Previous research was used to established the leading user story for each team.
 
 ## Junior Officers
+Junior Officers represent users that...
 ###User story
 As a junior officer, I want to know _______ about available billets, so that I can explore opportunities that fit my career goals.
 
@@ -15,16 +16,20 @@ As a junior officer, I want to know _______ about available billets, so that I c
 Demo of working Talentlink prototype: http://fuzzylogic.knackhq.com/talentlink
 
 ## Detailers
+Junior Officers represent users that...
 ###User story
 As a detailer, I want to know _____________ about available junior officers, so I can find the most qualified officer to fill a given billet.
 
 ###Demo
+Coming soon!
 
 ##Commanding Officers
+Junior Officers represent users that...
+
 ###User story
 As a commanding officer, I want to know ___________ about junior officers, so that I can understand whether a junior officer is a good fit for my command.
 
-#Demo
+###Demo
 * [Screenshot 1](https://raw.githubusercontent.com/18F/Navy/master/Images/CO_screen_1.png)
 * [Screenshot 2](https://raw.githubusercontent.com/18F/Navy/master/Images/CO_screen_2.png)
 * [Screenshot 3](https://raw.githubusercontent.com/18F/Navy/master/Images/CO_screen_3.png)
