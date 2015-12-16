@@ -7,14 +7,6 @@ Over December 15-16 the U.S. Navy and 18F worked together on an Agile Prototypin
 ## The three user stories
 The three user stories selected for the workshop are best represented by *Junior Officers*, *Detailers*, and *Contracting Officers*. Previous research was used to established the leading user story for each team.
 
-###Junior Officers (JO) user story
-As a junior officer, I want to know _______ about available billets, so that I can explore opportunities that fit my career goals.
-
-###Detailers user story
-As a detailer, I want to know _____________ about available junior officers, so I can find the most qualified officer to fill a given billet.
-
-###Commanding Officers (CO) user story
-
 ## Slides
 Slides for the workshop [can be found here](https://docs.google.com/a/gsa.gov/presentation/d/1TKOt2pSmpcYFTo7Ud2Fs-eqkwFjcghz_jV1E--ENvzE/pub?start=false&loop=false&delayms=3000).
 
@@ -29,9 +21,22 @@ The Open Opportunities Dashboard allows government employees a way to find short
 * [Invision](invisionapp.com)
 
 ## Junior Officers
-User story:
+###User story
+As a junior officer, I want to know _______ about available billets, so that I can explore opportunities that fit my career goals.
 
+###Demo
 Demo of working Talentlink prototype: http://fuzzylogic.knackhq.com/talentlink
 
+## Detailers
+###User story
+As a detailer, I want to know _____________ about available junior officers, so I can find the most qualified officer to fill a given billet.
+
+###Demo
+
+##Commanding Officers
+###User story
+As a commanding officer, I want to know ___________ about junior officers, so that I can understand whether a junior officer is a good fit for my command.
+
+#Demo
 
 
