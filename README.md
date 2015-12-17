@@ -43,11 +43,11 @@ As a commanding officer, I want to know ___________ about junior officers, so th
 Slides for the workshop [can be found here](https://docs.google.com/a/gsa.gov/presentation/d/1TKOt2pSmpcYFTo7Ud2Fs-eqkwFjcghz_jV1E--ENvzE/pub?start=false&loop=false&delayms=3000).
 
 ## The agile process and user centered design in government initiatives
-18F's own dashboard and description of phases - see https://18f.gsa.gov/dashboard/
-Building digital by default - https://www.gov.uk/service-manual/start
-U.S. Digital Services Playbook - https://playbook.cio.gov/
-On acquisition strategy: U.S. Digital Services TechFAR Handbook - https://playbook.cio.gov/techfar/
-Choosing design over architecture blog post - https://18f.gsa.gov/2015/11/17/choose-design-over-architecture/
+* 18F's own dashboard and description of phases - see https://18f.gsa.gov/dashboard/
+* Building digital by default - https://www.gov.uk/service-manual/start
+* U.S. Digital Services Playbook - https://playbook.cio.gov/
+* On acquisition strategy: U.S. Digital Services TechFAR Handbook - https://playbook.cio.gov/techfar/
+* Choosing design over architecture blog post - https://18f.gsa.gov/2015/11/17/choose-design-over-architecture/
 
 
 ## Some examples of tools to get you started with sketching...
