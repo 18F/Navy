@@ -9,6 +9,7 @@ The three user stories selected for the workshop are best represented by *Junior
 
 ## Junior Officers
 Junior Officers represent users that...
+
 ###User story
 As a junior officer, I want to know _______ about available billets, so that I can explore opportunities that fit my career goals.
 
@@ -16,23 +17,29 @@ As a junior officer, I want to know _______ about available billets, so that I c
 Demo of working Talentlink prototype: http://fuzzylogic.knackhq.com/talentlink
 
 ## Detailers
-Junior Officers represent users that...
+Detailers represent users that...
+
 ###User story
 As a detailer, I want to know _____________ about available junior officers, so I can find the most qualified officer to fill a given billet.
 
 ###Demo
-Coming soon!
+* ![Screenshot 1](/Images/Detailer_screen_1.png)
+* ![Screenshot 1](/Images/Detailer_screen_2.png)
+* ![Screenshot 1](/Images/Detailer_screen_3.png)
+* ![Screenshot 1](/Images/Detailer_screen_4.png)
+* ![Screenshot 1](/Images/Detailer_screen_5.png)
+* ![Screenshot 1](/Images/Detailer_screen_6.png)
 
 ##Commanding Officers
-Junior Officers represent users that...
+Commanding Officers represent users that...
 
 ###User story
 As a commanding officer, I want to know ___________ about junior officers, so that I can understand whether a junior officer is a good fit for my command.
 
 ###Demo
-* [Screenshot 1](https://raw.githubusercontent.com/18F/Navy/master/Images/CO_screen_1.png)
-* [Screenshot 2](https://raw.githubusercontent.com/18F/Navy/master/Images/CO_screen_2.png)
-* [Screenshot 3](https://raw.githubusercontent.com/18F/Navy/master/Images/CO_screen_3.png)
+* ![Screenshot 1](/Images/CO_screen_1.png)
+* ![Screenshot 2](/Images/CO_screen_2.png)
+* ![Screenshot 3](/Images/CO_screen_3.png)
 
 ##Retrospective
 
