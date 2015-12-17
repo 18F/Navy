@@ -34,15 +34,34 @@ As a commanding officer, I want to know ___________ about junior officers, so th
 * [Screenshot 2](https://raw.githubusercontent.com/18F/Navy/master/Images/CO_screen_2.png)
 * [Screenshot 3](https://raw.githubusercontent.com/18F/Navy/master/Images/CO_screen_3.png)
 
+##Retrospective
+
+
+#Resources
+
 ## Slides
 Slides for the workshop [can be found here](https://docs.google.com/a/gsa.gov/presentation/d/1TKOt2pSmpcYFTo7Ud2Fs-eqkwFjcghz_jV1E--ENvzE/pub?start=false&loop=false&delayms=3000).
 
-## Open Opportunities Dashboard
-The Open Opportunities Dashboard allows government employees a way to find short-term assignments (with supervisor approval) and advertise skillsets they have.  Open source repository is [here](https://github.com/18F/openopps-platform).
-[https://openopps.digitalgov.gov/](https://openopps.digitalgov.gov/)
+## The agile process and user centered design in government initiatives
+18F's own dashboard and description of phases - see https://18f.gsa.gov/dashboard/
+Building digital by default - https://www.gov.uk/service-manual/start
+U.S. Digital Services Playbook - https://playbook.cio.gov/
+On acquisition strategy: U.S. Digital Services TechFAR Handbook - https://playbook.cio.gov/techfar/
+Choosing design over architecture blog post - https://18f.gsa.gov/2015/11/17/choose-design-over-architecture/
+
 
 ## Some examples of tools to get you started with sketching...
 
 * Powerpoint + [Keynotopia](http://keynotopia.com/tutorials/)
 * [Balsamiq](https://balsamiq.com/)
 * [Invision](invisionapp.com)
+
+## Other examples, resources and writings of interest...
+
+### Open Opportunities Dashboard
+The Open Opportunities Dashboard allows government employees a way to find short-term assignments (with supervisor approval) and advertise skillsets they have.  Open source repository is [here](https://github.com/18F/openopps-platform).
+[https://openopps.digitalgov.gov/](https://openopps.digitalgov.gov/)
+
+### Medical Matching Service 
+See http://www.nrmp.org/
+
