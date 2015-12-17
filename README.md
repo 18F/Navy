@@ -42,7 +42,40 @@ As a commanding officer, I want to know ___________ about junior officers, so th
 * ![Screenshot 3](/Images/CO_screen_3.png)
 
 ##Retrospective
+The following is a general retrospective on the workshop.
 
+###What worked...
+* time limits for teams (around 40 mins) to synthesize around a design
+* Teams of 5 further breaking into pairs to sketch concurrently
+* Dedicated individuals to design and dev
+* Having user stories available pre-workshop to save time and jump right into prototyping
+* Seeing three different user groups come together and sketch at the same time provided the benefit of crosspollination of ideas during demos and feedback sessions
+* A visual representation helped frame the conversation
+* We had the right number and right mix of participants
+* Positive energy contributed to high value production
+* Change of scenery during the day (different rooms) kept things fresh
+* Introduction of easy-to-use prototyping tools was effective and empowering
+* Having actual, clickable prototypes was very helpful, as is opportunity to get remote feedback on designs after the workshop
+* Information collected and what showed up in the prototypes was not anticipated
+* Good engagement across all groups
+
+###What needs addressing...
+* Logistics are important - shuffling between breakrooms can be difficult given short time to work during sprints, white boards and scratch pads in all rooms
+* Managing group participation from all involved is important
+* Hard to accomodate discussions around culture and institutional barriers
+* We didn't establish detailed measures of success or a definition of done clearly enough
+* More cross pollination the groups, more interaction would have been helpful
+* Having time to figure out how all three prototypes might fit together would have been valuable (ran out of time, but felt close)
+* I’d like to see if we could get to a point where we have a better way to describe individuals in the system
+* Flexibility to introduce new user stories might be necessary at certain points in the process
+
+###What didn't work.
+* Jumping into prototyping without any discovery, even though research was available, was hard on some participants in the group
+* Still difficult to get out of as-is model quickly during prototyping sessions - we need permission to get there
+* Difficult to address constraints (like the availability of data) within the short time period
+* It proved hard to address all questions regarding agile and process within allotted time
+* Needed more opportunities to collect feature requirements, what’s the longer term vision, more user perspectives
+* Sometimes difficult to separate the technical possibilities from the business processes
 
 #Resources
 
