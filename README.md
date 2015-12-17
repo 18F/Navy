@@ -8,7 +8,7 @@ Over December 15-16 the U.S. Navy and 18F worked together on an Agile Prototypin
 The three user stories selected for the workshop are best represented by *Junior Officers*, *Detailers*, and *Contracting Officers*. Previous research was used to established the leading user story for each team.
 
 ## Junior Officers
-Junior Officers represent users that...
+For our workshop, the Junior Officers represent users that seemed most interested in learning about career advancement opportunities, job fit, and information and reputation scores about potential jobs.
 
 ###User story
 As a junior officer, I want to know _______ about available billets, so that I can explore opportunities that fit my career goals.
@@ -17,7 +17,7 @@ As a junior officer, I want to know _______ about available billets, so that I c
 Demo of working Talentlink prototype: http://fuzzylogic.knackhq.com/talentlink
 
 ## Detailers
-Detailers represent users that...
+Detailers represent users that were primarily interested in filling open positions and helping the Junior Officers better manage their careers.
 
 ###User story
 As a detailer, I want to know _____________ about available junior officers, so I can find the most qualified officer to fill a given billet.
@@ -31,7 +31,7 @@ As a detailer, I want to know _____________ about available junior officers, so 
 * ![Screenshot 1](/Images/Detailer_screen_6.png)
 
 ##Commanding Officers
-Commanding Officers represent users that...
+Commanding Officers represent users that were primarily interested in understanding how well a Junior Officer fits into a given job, and being able to see a global view of all open positions and other information important to Commanding Officers (a command dashboard).
 
 ###User story
 As a commanding officer, I want to know ___________ about junior officers, so that I can understand whether a junior officer is a good fit for my command.
@@ -40,6 +40,39 @@ As a commanding officer, I want to know ___________ about junior officers, so th
 * ![Screenshot 1](/Images/CO_screen_1.png)
 * ![Screenshot 2](/Images/CO_screen_2.png)
 * ![Screenshot 3](/Images/CO_screen_3.png)
+
+#After-Action Report
+* We'll need to do some work to figure out how the findings of the workshop plug into what Navy is attempting to do, and where there's some overlap
+* Can we collect feature requests based on user feedback?  Do we need to start that prioritization process now?
+* We need a better sense for what some of the ideas shared during the workshop might mean for the rest of our systems.  Can we have a sandbox to test assumptions against?  How many systems are we looking at integrating?
+
+A short to-do list:
+
+* Better understanding the architecture
+* Assessment of what would cause this to be a catastrophic failture
+* Understand the security constraints and requirements
+* We might like to plug into the real systems, but need to work towards that before we can overcome that.  We may need to start by working with sanitized data.
+* Needs to be a clear pathway towards real integration.
+
+Two key, short-term activities:
+
+* Prototype using sanitized data to demonstrate the concept; and
+* Looking at how we connect to the actual enterprise-level systems.
+
+In a prototype, the way forward might be modeling the database in the prototype environment, and when ready, “flipping the switch” to hit the real data.  Staged enterprise integration - how do we eventually move systems over to the real system?  We have to consider all the major systems that we might touch?  Better understanding users that are affected by multiple login systems is important.  How do we solve the multiple layer login systems, and accreditation?  Are there elements of the system that could go live before others?
+
+Two key themes that emerged from the workshop:
+
+* Importance of Data Integration and Visualization
+* Importance of understanding better the Workflows and New Business Processes
+
+Others had success using a group of users to be earlier adopters of the system - would something similar work?  Can we deduplicate a slate based partially off of real data?  Can we build an MVP off of what is possible?  Macros duplicate some of the data transformation processes - what can we learn from those?  A focus on the base enterprise architecture requirements is also important.  
+
+If we could build a pristine system from the ground up, what would it look like?  
+
+One important rule we'll need to consider: any prototyped system cannot disrupt your job.
+
+Establishing and communicating the clear product vision is critical.
 
 ##Retrospective
 The following is a general retrospective on the workshop.
@@ -88,7 +121,6 @@ Slides for the workshop [can be found here](https://docs.google.com/a/gsa.gov/pr
 * U.S. Digital Services Playbook - https://playbook.cio.gov/
 * On acquisition strategy: U.S. Digital Services TechFAR Handbook - https://playbook.cio.gov/techfar/
 * Choosing design over architecture blog post - https://18f.gsa.gov/2015/11/17/choose-design-over-architecture/
-
 
 ## Some examples of tools to get you started with sketching...
 
