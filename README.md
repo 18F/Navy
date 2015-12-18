@@ -144,6 +144,8 @@ The following is a general retrospective on the workshop.
 ## Slides
 Slides for the workshop [can be found here](https://docs.google.com/a/gsa.gov/presentation/d/1TKOt2pSmpcYFTo7Ud2Fs-eqkwFjcghz_jV1E--ENvzE/pub?start=false&loop=false&delayms=3000).
 
+HINT: Having issues getting the Google doc version?  You can download a PDF [here](/Images/navy_agile_proto_workshop.pdf)
+
 ## The agile process and user centered design in government initiatives
 * 18F's own dashboard and description of phases - see https://18f.gsa.gov/dashboard/
 * Building digital by default - https://www.gov.uk/service-manual/start
