@@ -1,9 +1,7 @@
 # Navy Agile Prototyping Workshop
 This is a repository for the Navy's Agile Prototyping Workshop.  This is a publicly accessible website - please refrain from publishing content not for public consumption.  
 
-```
-Interested in running your own agile prototyping workshop?  [Read this article] (https://18f.gsa.gov/2014/10/21/how-to-run-your-own-3-sprint-agile-workshop/)and [this one on protosketching!](https://18f.gsa.gov/2015/01/06/protosketch/)
-```
+HINT: Interested in running your own agile prototyping workshop?  [Read this article]  (https://18f.gsa.gov/2014/10/21/how-to-run-your-own-3-sprint-agile-workshop/) and [this one on protosketching!](https://18f.gsa.gov/2015/01/06/protosketch/)
 
 ## Overview
 Over December 15-16 the U.S. Navy and 18F worked together on an Agile Prototyping Workshop.  Over two days, three teams worked over 5 sprints to create prototypes for three user stories.
