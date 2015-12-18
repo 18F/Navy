@@ -10,7 +10,7 @@ Over December 15-16 the U.S. Navy and 18F worked together on an Agile Prototypin
 The three user stories selected for the workshop are best represented by *Junior Officers*, *Detailers*, and *Contracting Officers*. Previous research was used to established the leading user story for each team.
 
 ## Junior Officers
-For our workshop, the Junior Officers represent users that seemed most interested in learning about career advancement opportunities, job fit, and information and reputation scores about potential jobs.
+For our workshop, the Junior Officers represent users interested in *learning about career advancement opportunities*, *job fit*, and *information and reputation scores about potential jobs*.
 
 ###User story
 As a junior officer, I want to know _______ about available billets, so that I can explore opportunities that fit my career goals.
@@ -18,8 +18,35 @@ As a junior officer, I want to know _______ about available billets, so that I c
 ###Demo
 Demo of working Talentlink prototype: http://fuzzylogic.knackhq.com/talentlink
 
+###User Testing Plan
+Towards the end of the sprint cycles the JO team began to craft a User Testing Plan:
+
+####Purpose: 
+To test and validate the JOs TalentLink prototype and hypothesis.
+Hypothesis:
+
+The top billet characteristics most important to JOs are:
+
+* How many people am I competing against (hard and soft breakout)?
+* What are the statutory promotional rates of other people in similar billets?
+* What is the number of subordinates I’ll be responsible for?
+* What is the billet purity?
+* What is the AQD (and other qualifications) required for this billet?
+* What is the AQD (and other qualifications) recieved for this billet?
+* What are the quality of life indicators for this billet?
+
+####Our User Testing Plan (following sprint cycles):
+
+* Distribute TalentLink prototype to xx JOs.
+* Ask users to select the top 5 features.
+* Ask users to list other features not available on the prototype.
+* Collect comments and markup.
+* Validate findings and assess 
+* Iterate!
+* Redistribute to users for comment / feedback (start again!)
+
 ## Detailers
-Detailers represent users that were primarily interested in filling open positions and helping the Junior Officers better manage their careers.
+Detailers represent users that were interested in *filling open positions* and *helping the Junior Officers better manage their careers*.
 
 ###User story
 As a detailer, I want to know _____________ about available junior officers, so I can find the most qualified officer to fill a given billet.
@@ -33,7 +60,7 @@ As a detailer, I want to know _____________ about available junior officers, so 
 * ![Screenshot 1](/Images/Detailer_screen_6.png)
 
 ##Commanding Officers
-Commanding Officers represent users that were primarily interested in understanding how well a Junior Officer fits into a given job, and being able to see a global view of all open positions and other information important to Commanding Officers (a command dashboard).
+Commanding Officers represent users that were interested in *understanding how well a Junior Officer fits into a given job*, and being able to see a *global view of all open positions and other information important to Commanding Officers (a command dashboard)*.
 
 ###User story
 As a commanding officer, I want to know ___________ about junior officers, so that I can understand whether a junior officer is a good fit for my command.
